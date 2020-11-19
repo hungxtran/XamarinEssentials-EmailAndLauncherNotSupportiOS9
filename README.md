@@ -1,0 +1,1 @@
+# XamarinEssentials-EmailAndLauncherNotSupportiOS9
